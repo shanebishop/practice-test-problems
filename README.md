@@ -1,6 +1,8 @@
 # practice-test-problems
 Practice test problems for Introduction to Computer Science I course
 
+NOTE: SimpleGraphics is a helper library that was not written by me; it is simply required for my code to run properly.
+
 The .py files in this repository are solutions to some of the practice test problems for my Introduction to Computer Science I course.
 
 pt1q1-compare-circumferences.py outputs which of two circumferences is larger, given two diameters.
